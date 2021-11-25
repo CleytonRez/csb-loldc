@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://cleytonrez.github.io/csb-loldc/static/css/main.a225e04f.chunk.css",
-    "main.js": "https://cleytonrez.github.io/csb-loldc/static/js/main.a90bb3a4.chunk.js",
-    "main.js.map": "https://cleytonrez.github.io/csb-loldc/static/js/main.a90bb3a4.chunk.js.map",
-    "runtime-main.js": "https://cleytonrez.github.io/csb-loldc/static/js/runtime-main.30f4dd3e.js",
-    "runtime-main.js.map": "https://cleytonrez.github.io/csb-loldc/static/js/runtime-main.30f4dd3e.js.map",
-    "static/js/2.eed3c6af.chunk.js": "https://cleytonrez.github.io/csb-loldc/static/js/2.eed3c6af.chunk.js",
-    "static/js/2.eed3c6af.chunk.js.map": "https://cleytonrez.github.io/csb-loldc/static/js/2.eed3c6af.chunk.js.map",
+    "main.js": "https://cleytonrez.github.io/csb-loldc/static/js/main.5d99ce96.chunk.js",
+    "main.js.map": "https://cleytonrez.github.io/csb-loldc/static/js/main.5d99ce96.chunk.js.map",
+    "runtime-main.js": "https://cleytonrez.github.io/csb-loldc/static/js/runtime-main.4ae31166.js",
+    "runtime-main.js.map": "https://cleytonrez.github.io/csb-loldc/static/js/runtime-main.4ae31166.js.map",
+    "static/js/2.3bf57213.chunk.js": "https://cleytonrez.github.io/csb-loldc/static/js/2.3bf57213.chunk.js",
+    "static/js/2.3bf57213.chunk.js.map": "https://cleytonrez.github.io/csb-loldc/static/js/2.3bf57213.chunk.js.map",
     "index.html": "https://cleytonrez.github.io/csb-loldc/index.html",
     "static/css/main.a225e04f.chunk.css.map": "https://cleytonrez.github.io/csb-loldc/static/css/main.a225e04f.chunk.css.map",
-    "static/js/2.eed3c6af.chunk.js.LICENSE.txt": "https://cleytonrez.github.io/csb-loldc/static/js/2.eed3c6af.chunk.js.LICENSE.txt"
+    "static/js/2.3bf57213.chunk.js.LICENSE.txt": "https://cleytonrez.github.io/csb-loldc/static/js/2.3bf57213.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.30f4dd3e.js",
-    "static/js/2.eed3c6af.chunk.js",
+    "static/js/runtime-main.4ae31166.js",
+    "static/js/2.3bf57213.chunk.js",
     "static/css/main.a225e04f.chunk.css",
-    "static/js/main.a90bb3a4.chunk.js"
+    "static/js/main.5d99ce96.chunk.js"
   ]
 }
